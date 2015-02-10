@@ -1,2 +1,2 @@
-export * from 'thing1'
-export * from 'thing2'
+export * from './thing1'
+export * from './thing2'
