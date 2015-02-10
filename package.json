@@ -1,5 +1,6 @@
 {
   "name": "jspm_test_subdependency",
+  "main": "./src/module.js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
